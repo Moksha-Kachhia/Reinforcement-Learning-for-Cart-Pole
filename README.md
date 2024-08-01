@@ -1,4 +1,4 @@
-# Reinforcement-Learning-for-InvertedPendulum-v4
-Contains Jupyter notebooks for reinforcement learning algorithm implementations for Mujoco's InvertedPendulum-v4 Game.
+# Reinforcement-Learning-for-Cart-Pole
+Contains Jupyter notebooks for reinforcement learning algorithm implementations for Classic Control's Cart Pole Game.
 
 Algorithms: Vanilla policy gradient
